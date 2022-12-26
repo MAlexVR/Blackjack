@@ -1,6 +1,6 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-    base: `/malexvr.github.io/`,
+    base: `/Blackjack/`,
     plugins: []
 })
